@@ -1,0 +1,8 @@
+install & migrate spatie
+run seeder
+install laravel/ui v2.*
+run php artisan ui --auth bootstrap
+npm install && npm run dev
+lalu kita handle siapa yg login (LoginController)
+add middleware from spatie on web.php
+add assignRole when reg user
